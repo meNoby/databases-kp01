@@ -1,0 +1,4 @@
+temp_water:-10 to 30
+temp_air:-20 to 40
+humidity_air:0.1 to 8
+danger_air:0.1 to 2.2

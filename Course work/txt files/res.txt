@@ -1,0 +1,44 @@
+Sevastopol is dangerous
+Mykolaiv is dangerous
+Zaporizhzhia is not dangerous
+Melitopol is dangerous
+Luhansk is dangerous
+Donetsk is dangerous
+Zhytomyr is dangerous
+Pavlohrad is not dangerous
+Odesa is dangerous
+Bila Tserkva is not dangerous
+Chernihiv is dangerous
+Drohobych is not dangerous
+Pavlohrad is dangerous
+Alchevsk is dangerous
+Cherkasy is not dangerous
+Poltava is not dangerous
+Uzhhorod is not dangerous
+Khrustalnyi is not dangerous
+Cherkasy is dangerous
+Ternopil is not dangerous
+Nikopol is dangerous
+Horlivka is dangerous
+Donetsk is not dangerous
+Kyiv is dangerous
+Lutsk is dangerous
+Kremenchuk is not dangerous
+Mykolaiv is not dangerous
+Sloviansk is not dangerous
+Kramatorsk is dangerous
+Sumy is dangerous
+Ternopil is dangerous
+Vinnytsia is not dangerous
+Simferopol is not dangerous
+Rivne is dangerous
+Alchevsk is not dangerous
+Konotop is dangerous
+Kherson is dangerous
+Mariupol is not dangerous
+Kamianske is dangerous
+Chernivtsi is dangerous
+Uzhhorod is dangerous
+Lviv is not dangerous
+Drohobych is dangerous
+Khmelnytskyi is not dangerous
